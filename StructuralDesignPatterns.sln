@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdapterDesignPattern", "Ada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern.Example1", "AdapterDesignPattern\AdapterDesignPattern.Example1\AdapterDesignPattern.Example1.csproj", "{91561287-B4F1-43F9-A3A9-DA95FED2EE3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern.Example2", "AdapterDesignPattern\AdapterDesignPattern.Example2\AdapterDesignPattern.Example2.csproj", "{F9AEB4AA-F247-4946-9FA6-D06C25D2A02E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{91561287-B4F1-43F9-A3A9-DA95FED2EE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91561287-B4F1-43F9-A3A9-DA95FED2EE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91561287-B4F1-43F9-A3A9-DA95FED2EE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AEB4AA-F247-4946-9FA6-D06C25D2A02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AEB4AA-F247-4946-9FA6-D06C25D2A02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AEB4AA-F247-4946-9FA6-D06C25D2A02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AEB4AA-F247-4946-9FA6-D06C25D2A02E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{91561287-B4F1-43F9-A3A9-DA95FED2EE3C} = {71575C5B-34CC-4010-B140-EC0CA353F843}
+		{F9AEB4AA-F247-4946-9FA6-D06C25D2A02E} = {71575C5B-34CC-4010-B140-EC0CA353F843}
 	EndGlobalSection
 EndGlobal
