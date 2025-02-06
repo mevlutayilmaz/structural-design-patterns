@@ -51,6 +51,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProxyDesignPattern", "Proxy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern.Example1", "ProxyDesignPattern\ProxyDesignPattern.Example1\ProxyDesignPattern.Example1.csproj", "{BD953687-1478-4ADA-9130-91022AF34CD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern.Example2", "ProxyDesignPattern\ProxyDesignPattern.Example2\ProxyDesignPattern.Example2.csproj", "{9C1CA9EF-1B3E-4F79-8A20-B047AC1DD731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{BD953687-1478-4ADA-9130-91022AF34CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD953687-1478-4ADA-9130-91022AF34CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD953687-1478-4ADA-9130-91022AF34CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1CA9EF-1B3E-4F79-8A20-B047AC1DD731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1CA9EF-1B3E-4F79-8A20-B047AC1DD731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1CA9EF-1B3E-4F79-8A20-B047AC1DD731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1CA9EF-1B3E-4F79-8A20-B047AC1DD731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,5 +153,6 @@ Global
 		{0BE5CBDF-B863-4A94-A75B-3FF9F2E78A59} = {A95F7082-8EA2-4F40-8CE8-B607C035C629}
 		{14385E90-4561-4571-80B5-5CF158E8B5E3} = {A95F7082-8EA2-4F40-8CE8-B607C035C629}
 		{BD953687-1478-4ADA-9130-91022AF34CD5} = {83921E67-BE58-4AF1-8DA1-11B57F566A6C}
+		{9C1CA9EF-1B3E-4F79-8A20-B047AC1DD731} = {83921E67-BE58-4AF1-8DA1-11B57F566A6C}
 	EndGlobalSection
 EndGlobal
